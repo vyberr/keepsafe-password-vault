@@ -20,4 +20,4 @@ There are security updates that are rolled out frequently and availible for down
 
 ### Downloading the Program
 
-Currently KeepSafe is only available to download from git hub, but will be soon released on other platforms as when the time and usage arrives. onto the repository download this file as you would, like a ZIP file, after doing so, unzip this file to which ever 
+Currently KeepSafe is only available to download from git hub, but will be soon released on other platforms as when the time and usage arrives. onto the repository download this file as you would, like a ZIP file, after doing so, unzip this file to which ever folder of file you would like to, (Microsoft Defender might ask for an acceptance prompt, because it is a foriegn application, there are no viruses or any malicious network in this application ) 
