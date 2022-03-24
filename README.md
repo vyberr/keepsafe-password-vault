@@ -3,9 +3,13 @@ Created By Saaim Japanwala
 Currently Working Independantly
 Constructed Using Batch, HTML, Python, C#
 
+## WINDOWS BUILD
+
+sorry mac users...
+
 ## Description
 
-### Downlaods
+### Downloads
 
 this repo is available to download the KeepSafe Password Application, which is built from CMD/ Batch file for on PC security, but can also be transferred to EXE format. Updates are available frequently, keep a look out for fresh downloads. (IDE Required)  
 
@@ -21,3 +25,7 @@ There are security updates that are rolled out frequently and availible for down
 ### Downloading the Program
 
 Currently KeepSafe is only available to download from git hub, but will be soon released on other platforms as when the time and usage arrives. onto the repository download this file as you would, like a ZIP file, after doing so, unzip this file to which ever folder of file you would like to, (Microsoft Defender might ask for an acceptance prompt, because it is a foriegn application, there are no viruses or any malicious network in this application ) 
+
+### Setting Up Your Preferance 
+
+the password will be 000, but you can always change it in your preferred IDE, or the NOTES application
